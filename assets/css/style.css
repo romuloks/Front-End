@@ -1,0 +1,58 @@
+.center{
+    text-align: center;
+}
+.container{
+    display: flex;
+    flex-flow: row;
+    justify-content: center ;
+    align-items: center;
+
+}
+#menu li{
+    display: inline;
+    padding: 50px;
+    
+}
+#menu{
+    color: brown;
+}
+
+#menu li a{
+    text-decoration: none;
+    color:brown;
+}
+#menu li a:hover{
+    font-size: 30px;
+    color:aqua;
+
+}
+.paragrafo {
+    background-color:blue;
+}
+.leitura {
+    color:brown;
+}
+h1 {
+    color: blue;
+}
+h2 {
+    color: blue;
+}
+.livro {
+    color: blueviolet;
+}
+.fundo{
+    background-color: black;
+}
+.fundo3{
+    background-image: url("");
+}
+.fundo2{
+    background-color:rgb(23, 223, 23);
+}
+h4{
+    color: blue;
+}
+h5{
+    color: blue;
+}

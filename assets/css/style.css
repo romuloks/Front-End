@@ -1,0 +1,86 @@
+.center{
+    text-align: center;
+}
+.container{
+    display: flex;
+    flex-flow: row;
+    justify-content: center ;
+    align-items: center;
+
+}
+#menu li{
+    display: inline;
+    padding: 50px;
+    
+}
+#menu{
+    color: brown;
+}
+
+#menu li a{
+    text-decoration: none;
+    color:blue;
+
+}
+#menu li a:hover{
+    font-size: 30px;
+    color:aqua;
+
+}
+.tm-social {
+    width: 50px;
+    height: 50px;
+}
+.tm-social:hover{
+    width: 65px;
+    height: 65px;
+}
+.paragrafo {
+    background-color:blue;
+}
+.leitura {
+    color:brown;
+}
+.leitura2 {
+    
+}
+#menu2 {
+    color: blue;
+}
+h1 {
+    color: blue;
+}
+h2 {
+    color: blue;
+}
+.livro {
+    color: blueviolet;
+}
+.fundo{
+    background-color: black;
+}
+.foto2{
+    background-image: url("https://i.pinimg.com/originals/95/c2/ee/95c2ee6a36c5aa9e5930b424f603c20f.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    
+}
+
+.foto{
+    width: 100px;
+
+}
+.fundo2{
+    background-color:rgb(23, 223, 23);
+}
+h4{
+    color: blue;
+}
+h5{
+    color: blue;
+}
+
+.img-center{
+    width: 1000px;
+    height: 800px;
+}
